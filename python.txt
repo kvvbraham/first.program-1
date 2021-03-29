@@ -1,1 +1,79 @@
 Hi Welcome to Python Class!!!!!!
+GIT commands
+$ history
+    1  git clone https://github.com/kvvbraham/Python.git
+    2  ls
+    3  git status
+    4  cd Python/
+    5  git status
+    6  clear
+    7  cd ..
+    8  ls
+    9  cd  Python/
+   10  ls
+   11  ll
+   12  git status
+   13  git add .
+   14  git status
+   15  git status
+   16  git commit -m "Python files are added"
+   17  git config --global user.email "kvvbraham@gmail.com"
+   18  git config --global user.name "kvvbraham"
+   19  git commit -m "Python files are added"
+   20  git push
+   21  git clone https://github.com/kvvbraham/Python.git
+   22  git pull
+   23  cd Python/
+   24  git pull
+   25  cloud
+   26  pull
+   27  cloud
+   28  cd Python
+   29  ls
+   30  ll
+   31  git clonekvvee@LAPTOP-CLP0ME3O MINGW64 /c/Git-Python
+   32  $ git clone
+   33  git clone kvvee@LAPTOP-CLP0ME3O MINGW64 /c/Git-Python
+   34  $ git clone
+   35  git clone https://github.com/kvvbraham/mux.git
+   36  git clone https://github.com/kvvbraham/first.program-1.git
+   37  ls
+   38  ll
+   39  git clone https://github.com/kvvbraham/first-one.git
+   40  git add remote
+   41  git pull Python/
+   42  cd Python/
+   43  git pull
+   44  git add.file ("this is required material")
+   45  git add
+   46  "git config advice.addPythonclass "
+   47  git clone
+   48  git status
+   49  cd Python/
+   50  cd first.program-1/
+   51  ls -al
+   52  git status
+   53  touch python.txt
+   54  vim python.txt
+   55  git status
+   56  clear
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -m "new file added"
+   61  git push
+   62  git status
+   63  git pull
+   64  git status
+   65  git pull
+   66  ls
+   67  git status
+   68  git pull
+   69  ls
+   70  git log
+   71  git diff a4aca7dc306024  bc1df17a938e785f8ce
+   72  ls -al
+   73  ll -al
+   74  ls -a
+   75  ls
+   76  ls -ltr
