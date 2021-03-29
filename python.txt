@@ -1,5 +1,5 @@
-Hi Welcome to Python Class!!!!!!
-GIT commands
+Hi Welcome to Python Class!!!!!
+GIT commands and linux commands
 $ history
     1  git clone https://github.com/kvvbraham/Python.git
     2  ls
@@ -9,7 +9,7 @@ $ history
     6  clear
     7  cd ..
     8  ls
-    9  cd  Python/
+    9  cd  Python/ chnage directory command
    10  ls
    11  ll
    12  git status
